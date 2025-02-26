@@ -1,0 +1,37 @@
+# Assets
+assets/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# DATA and TEMP FILES
+data/
+assets/temp/     # Temp files
+*.log           # Log files 
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store        # Mac
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# Stack
+stack.txt
