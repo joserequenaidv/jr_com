@@ -1,0 +1,32 @@
+Stack
+- Frontend
+    o HTML
+    o CSS
+    o JavaScript
+    o Tailwind CSS
+    o Vue.js
+- Backend
+    o Django Rest Framework
+    o Django Authentication + JWT
+    o CORS
+
+- Database
+    o PostgreSQL
+
+- DevOps and Deployment
+    o Nginx
+    o Gunicorn
+    o Docker
+    o Ansible
+    o GitHub Actions
+
+- Files and Safety
+    o Cloudflare
+    o AWS S3
+
+- Optimization and Background Tasks
+    o Celery + Redis
+    o Sentry
+
+- Hosting and Servers
+    o AWS
